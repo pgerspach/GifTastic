@@ -1,0 +1,20 @@
+.col-12.buttonsArea{
+    box-sizing:border-box;
+    min-height: 70px;
+    border-bottom: 2px solid black;
+    border-top:2px solid black;
+    overflow:auto;
+    background: slateblue;
+    
+}
+.gifButton.btn-primary{
+    margin:auto;
+    background-color: lightseagreen;
+}
+.gifImg{
+    margin:5px;
+}
+.gifArea{
+    display:flex;
+    flex-wrap: wrap;
+}
