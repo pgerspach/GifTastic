@@ -18,3 +18,8 @@
     display:flex;
     flex-wrap: wrap;
 }
+
+.navbar-brand:hover{
+    cursor: pointer;
+}
+
